@@ -1,0 +1,7 @@
+.blog-header-logo {
+    font-family: 'Playfair Display', serif; /* This is just an example; you can choose any font */
+    font-size: 2.5rem; /* Adjust size as needed */
+    font-weight: bold; /* Makes the text bold */
+    color: #333; /* Sets the text color, change as needed */
+    text-transform: uppercase; /* Optional: transforms text to uppercase */
+}

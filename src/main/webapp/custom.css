@@ -1,0 +1,6 @@
+.container-custom {
+    width: 100%; /* Full width */
+    max-width: 90%; /* Maximum width is 90% of the viewport */
+    margin-right: auto; /* Center align the container */
+    margin-left: auto; /* Center align the container */
+}
